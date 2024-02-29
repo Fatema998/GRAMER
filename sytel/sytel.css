@@ -1,0 +1,281 @@
+
+body{
+
+}
+
+.nav{
+    width:1440px ;
+    height:56px ;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 37px 0px;
+}
+
+.nav1{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    width:1440px ;
+    margin: 0 auto;
+    
+}
+.banner-icon{
+    display: flex;
+    margin: 16px 12px;
+    gap: 20px;
+    justify-content:left;
+    align-items: center;
+  
+    
+    
+}
+.banner-img{
+    padding-top: 19px;
+}
+
+.banner-left{
+    /* margin: 148px; */
+    justify-content: center;
+    align-items: center;
+}
+
+.p{
+
+    color: rgb(11, 2, 35);
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    top: 278px;
+/* bottom: -163px; */
+
+}
+.sign-in{
+    padding: 21px 40px 21px 40px;
+    background: linear-gradient(90.00deg, rgb(255, 66, 165) 13.134%,rgb(255, 66, 165) 87.942%);
+    border-radius: 48px ;
+    border: none;
+    color: aliceblue;
+}
+
+.goat{
+    /* position: absolute; */
+ width: 355px;
+ height: 111px; 
+/* left: 240px; */
+/* right: -240px; */
+/* top: 338px; */
+/* bottom: -278px; */
+    background: linear-gradient(180.00deg, rgb(249, 72, 178),rgb(135, 88, 241));
+-webkit-background-clip:
+text;
+-webkit-text-fill-color:
+transparent;
+background-clip:
+text;
+text-fill-color:
+transparent;
+font-family: Work Sans;
+font-size: 95px;
+font-weight: 800;
+/* line-height: 111px; */
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
+
+.go-rogue{
+
+
+
+    width: 185px;
+    height: 65px;
+    /* Auto layout */
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 21px 40px 21px 40px;
+    border-radius: 48px;
+background: rgb(78, 197, 247);
+border: none;
+    color: aliceblue;
+    margin-left: 24px;
+}
+
+
+.section-3{
+    width:1440px ;
+    display: flex;
+   
+    margin: 0 auto;
+     justify-content: space-evenly; 
+    /* align-items: right;s  */
+    text-align: end;
+    
+}
+.png{
+    /* Width: 868px;
+Height: 489px;
+Top: 885px;
+Left: 240px; */
+justify-content: start;
+/* Fillet radius: 0px */
+
+
+
+
+}
+
+.third-right{
+
+    Width: 520px;
+    Height: 200px;
+    Top: 925px;
+    Left: 1160px;
+    padding-top: 98px;
+    
+    
+    
+    
+
+}
+
+.img-flexx{
+    display: flex;
+    width: 1440px;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+
+
+
+.head{
+    width: 1440px;
+    justify-content: space-between;
+    margin: 48px auto;
+    text-align: center;
+}
+
+.online{
+  
+
+font: weight 700;
+color: rgb(11, 2, 35)
+rgb(249, 72, 178)
+rgb(135, 88, 241);
+
+}
+
+.play{
+
+    display: flex;
+    width: 1440px;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+.frist-img{
+    /* Rectangle 5 */
+position: absolute; 
+width: 634.83px;
+height: 650px;
+left: 1045.17px;
+right: -900px;
+top: 2304px;
+bottom: -2228.17px;
+border-radius: 8px;
+
+background: url(11);
+
+}
+
+.ins{
+  /* Play Games Online Anywhere, Anytime! */
+position: absolute;
+width: 426px;
+height: 180px;
+left: 1197px;
+right: -1140px;
+top: 3389.83px;
+bottom: -3275.83px;
+}
+
+.inss{
+/* Group 30 */
+position: absolute;
+width: 353px;
+height: 294px;
+left: 427px;
+right: 473px;
+top: 2520px;
+bottom: -2088.17px;
+}
+.secnd-img{
+    /* Rectangle 6 */
+position: absolute;
+width: 318.5px;
+height: 365.08px;
+left: 900px;
+top: 2664.75px;
+box-sizing: border-box;
+border: 10px solid rgb(255, 255, 255);
+border-radius: 8px;
+
+background: url(bb);
+}
+
+
+.img-tree{
+    /* Rectangle 6 */
+position: absolute;
+width: 710px;
+height: 650px;
+left: 238px;
+right: -102px;
+top: 3149.83px;
+bottom: -3026.83px;
+border-radius: 8px;
+
+background: url(88);
+
+}
+.img-four{
+    /* Rectangle 7 */
+position: absolute;
+width: 318px;
+height: 365px;
+left: 766px;
+top: 3557.83px;
+box-sizing: border-box;
+border: 10px solid rgb(255, 255, 255);
+border-radius: 8px;
+
+background: url(aa);
+}
+
+.play2{
+    display: flex; 
+    width: 1440px;
+    justify-content: space-between;
+   margin: 0 auto;
+
+}
+.dis{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
